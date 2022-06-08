@@ -1,4 +1,4 @@
-# Interactive manual search for Lua
+# Interactive Manual Search for Lua
 
 The [Lua Reference Manual](https://www.lua.org/manual/) is impressive in the sense that it fits on a single web page including the complete Lua syntax in BNF form at the end. But while learning the language I found myself constantly switching back and forth between the terminal program and the browser. This got a bit tedious especially when I had to check for version changes of specific functions of which there are quite a few.
 
@@ -26,5 +26,5 @@ The code uses a coroutine to feed text matches into the pager, I think this was 
 This was written mainly in 2012, with some debugging in 2015. I did not have this under version control, so I'm just adding the files here.
 There are still a few minor bugs, but it's useable.
   
-I want to thank the Lua project for creating the beautiful simple language with its flowing functional style, I've certainly had a lot of fun with it!
+I want to thank the Lua project for creating such a beautiful simple language with its flowing functional style, I've certainly had a lot of fun with it!
  
